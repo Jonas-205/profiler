@@ -21,5 +21,5 @@ jobs:
     - name: Run lint
       run: cargo fmt && cargo clippy
     - name: Example
-      run: cargo run --example profiling && cargo run --features disable --example profiling
-      
+      run: cargo run --example profiler && cargo run --features disable --example profiler
+
