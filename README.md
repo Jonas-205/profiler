@@ -2,6 +2,8 @@
 A rust tool that helps you to easily profile your code in three diffrent scopes
 Can be viewed in chromium based browsers at chrome://tracing/
 
+This is based on [The Cherno's C++ Version](https://gist.github.com/TheCherno/31f135eea6ee729ab5f26a6908eb3a5e)
+
 As a lot of tracing can be slow, this crate can be completly disabled using the disable feature
 
 # Examples
